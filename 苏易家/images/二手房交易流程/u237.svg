@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="140px" height="70px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="790" y1="670" x2="930" y2="670" id="LinearGradient263">
+      <stop id="Stop264" stop-color="#ffffff" offset="0" />
+      <stop id="Stop265" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop266" stop-color="#ffffff" offset="0" />
+      <stop id="Stop267" stop-color="#fdedd8" offset="0" />
+      <stop id="Stop268" stop-color="#f2f2f2" offset="0" />
+      <stop id="Stop269" stop-color="#facd91" stop-opacity="0.709803921568627" offset="0" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -790 -635 )">
+    <path d="M 929 704  L 791 704  L 791 636  L 915.6583592135 636  L 929 649.3416407865  L 929 704  Z " fill-rule="nonzero" fill="url(#LinearGradient263)" stroke="none" />
+    <path d="M 790.5 635.5  L 790.5 704.5  L 929.5 704.5  L 929.5 649.17082039325  L 915.82917960675 635.5  L 790.5 635.5  Z " stroke-width="1" stroke-dasharray="3,1" stroke="#797979" fill="none" stroke-dashoffset="0.5" />
+    <path d="M 915.5 635  L 915.5 649.5  L 930 649.5  " stroke-width="1" stroke-dasharray="3,1" stroke="#797979" fill="none" stroke-dashoffset="0.5" />
+  </g>
+</svg>
